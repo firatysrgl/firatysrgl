@@ -1,16 +1,42 @@
-## Hi there 👋
+# Selam! Ben Fırat Yunus YAŞAROĞLU 👋
 
-<!--
-**firatysrgl/firatysrgl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Yazılım Mühendisliği Öğrencisi | AI & Cyber Security Developer
 
-Here are some ideas to get you started:
+Yazılım geliştirme dünyasında Java, C# ve Python ile projeler üretirken; özellikle **Yapay Zeka (Doğal Dil İşleme)** ve **Siber Güvenlik** alanlarında kendimi geliştiriyorum. Veriden anlam çıkarmayı ve güvenli sistemler inşa etmeyi seviyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Teknoloji Çantam
+
+| Alan | Araçlar & Diller |
+| :--- | :--- |
+| **Programlama Dilleri** | `Java`, `C#`, `Python` |
+| **Yapay Zeka & NLP** | `Predictive Modeling`, `Decision Support Systems`, `Text Analysis` |
+| **Siber Güvenlik** | `Network Security`, `Security Automation` |
+| **Geliştirme Ortamı** | `macOS`, `Git`, `VS Code`, `PyCharm` |
+
+---
+
+### 📈 GitHub İstatistiklerim
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firatysrgl&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/stats.proxy.py?username=firatysrgl&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
+</p>
+
+---
+
+### 🎯 Odaklandığım Projeler
+- 🧠 **NLP Karar Tahmini:** Hukuki metinler veya teknik veriler üzerinden karar tahminleme sistemleri.
+- 🛡️ **Güvenlik Araçları:** Python tabanlı güvenlik ve otomasyon scriptleri.
+- 🏗️ **Modüler Mimari:** Java ve C# ile temiz kod prensiplerine uygun uygulamalar.
+
+---
+
+### 🔗 İletişim ve Portfolyo
+🌍 [firatyunus.com](https://firatyunus.com/)  
+💼 [LinkedIn'de Bağlanalım](https://www.linkedin.com/in/firat-yunus-yasaroglu/)  
+📧 [firatyunusyasaroglu@gmail.com](mailto:firatyunusyasaroglu@gmail.com)
+
+---
+*“Kod yazmak sadece iş değil, karmaşık problemleri sanata dönüştürme biçimidir.”*
