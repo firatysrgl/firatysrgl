@@ -1,6 +1,6 @@
 # Selam! Ben Fırat Yunus YAŞAROĞLU 👋
 
-### 🚀 Yazılım Mühendisliği Öğrencisi | AI & Cyber Security Developer
+### 🚀 Yazılım Mühendisliği Öğrencisi | AI & Full Stack Developer
 
 Yazılım geliştirme dünyasında Java, C# ve Python ile projeler üretirken; özellikle **Yapay Zeka (Doğal Dil İşleme)** ve **Siber Güvenlik** alanlarında kendimi geliştiriyorum. Veriden anlam çıkarmayı ve güvenli sistemler inşa etmeyi seviyorum.
 
